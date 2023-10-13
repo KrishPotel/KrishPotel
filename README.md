@@ -1,6 +1,7 @@
 ### Hi
 I make games sometimes
 
+I dont know what to set my profile picture to
 <!--
 **KrishPotel/KrishPotel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
